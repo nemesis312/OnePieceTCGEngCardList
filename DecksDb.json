@@ -9,7 +9,7 @@
             "Placement": "1st Place",
             "Host": "Swamp Store",
             "Cards": [
-                
+                [
                     {
                         "CardNum": "#OP01-001",
                         "Qty": 1,
@@ -95,7 +95,7 @@
                         "Qty": 1,
                         "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-030.png?20221226"
                     }
-                
+                ]
             ]
         }
     ]
