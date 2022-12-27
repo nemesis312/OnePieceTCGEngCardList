@@ -1,6 +1,7 @@
 {
     "Decks": [
         {
+            "Id": 1,
             "DeckName": "Zoro Rush",
             "Author": "Frezzini E",
             "Date": "12/22/22",
@@ -9,93 +10,91 @@
             "Placement": "1st Place",
             "Host": "Swamp Store",
             "Cards": [
-                [
-                    {
-                        "CardNum": "#OP01-001",
-                        "Qty": 1,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?20221226"
-                    },
-                    {
-                        "CardNum": "#OP01-006",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?20221226"
-                    },
-                    {
-                        "CardNum": "#OP01-016",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?20221226"
-                    },
-                    {
-                        "CardNum": "#ST01-006",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png?20221226"
-                    },
-                    {
-                        "CardNum": "#OP01-025",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?20221226"
-                    },
-                    {
-                        "CardNum": "#OP01-017",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-017.png?20221226"
-                    },
-                    {
-                        "CardNum": "#ST01-012",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?20221226"
-                    },
-                    {
-                        "CardNum": "#OP01-013",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?20221226"
-                    },
-                    {
-                        "CardNum": "#ST01-007",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png?20221226"
-                    },
-                    {
-                        "CardNum": "#ST01-004",
-                        "Qty": 2,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png?20221226"
-                    },
-                    {
-                        "CardNum": "#ST01-011",
-                        "Qty": 2,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png?20221226"
-                    },
-                    {
-                        "CardNum": "#OP01-120",
-                        "Qty": 2,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120.png?20221226"
-                    },
-                    {
-                        "CardNum": "#P-013",
-                        "Qty": 1,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png?20221226"
-                    },
-                    {
-                        "CardNum": "#ST01-015",
-                        "Qty": 4,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png?20221226"
-                    },
-                    {
-                        "CardNum": "#OP01-026",
-                        "Qty": 3,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-026.png?20221226"
-                    },
-                    {
-                        "CardNum": "#ST01-016",
-                        "Qty": 3,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png?20221226"
-                    },
-                    {
-                        "CardNum": "#OP01-030",
-                        "Qty": 1,
-                        "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-030.png?20221226"
-                    }
-                ]
+                {
+                    "CardNum": "#OP01-001",
+                    "Qty": 1,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-006",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-016",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?20221226"
+                },
+                {
+                    "CardNum": "#ST01-006",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-025",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-017",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-017.png?20221226"
+                },
+                {
+                    "CardNum": "#ST01-012",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-013",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?20221226"
+                },
+                {
+                    "CardNum": "#ST01-007",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png?20221226"
+                },
+                {
+                    "CardNum": "#ST01-004",
+                    "Qty": 2,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png?20221226"
+                },
+                {
+                    "CardNum": "#ST01-011",
+                    "Qty": 2,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-120",
+                    "Qty": 2,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-120.png?20221226"
+                },
+                {
+                    "CardNum": "#P-013",
+                    "Qty": 1,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png?20221226"
+                },
+                {
+                    "CardNum": "#ST01-015",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-026",
+                    "Qty": 3,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-026.png?20221226"
+                },
+                {
+                    "CardNum": "#ST01-016",
+                    "Qty": 3,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-030",
+                    "Qty": 1,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-030.png?20221226"
+                }
             ]
         }
     ]
