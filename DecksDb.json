@@ -96,6 +96,98 @@
                     "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-030.png?20221226"
                 }
             ]
+        },
+        {
+            "Id": 2,
+            "DeckName": "Crocodile",
+            "Author": "ModestSamTCG",
+            "Date": "12/23/22",
+            "Country": "Spain",
+            "Tournamet": "OPBattle",
+            "Placement": "1st Place",
+            "Host": "Manavortex",
+            "Cards": [
+                {
+                    "CardNum": "#ST03-001",
+                    "Qty": 1,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-001.png?20221226"
+                },
+                {
+                    "CardNum": "#ST03-005",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005.png?20221226"
+                },
+                {
+                    "CardNum": "#ST03-004",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004.png?20221226"
+                },
+                {
+                    "CardNum": "#ST03-008",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008.png?20221226"
+                },
+                {
+                    "CardNum": "#ST03-009",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-009.png?20221226"
+                },
+                {
+                    "CardNum": "#ST03-012",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-012.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-064",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-064.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-073",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-070",
+                    "Qty": 2,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-074",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-074.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-071",
+                    "Qty": 1,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-071.png?20221226"
+                },
+                {
+                    "CardNum": "#P-009",
+                    "Qty": 1,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-009.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-065",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-065.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-067",
+                    "Qty": 3,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-067.png?20221226"
+                },
+                {
+                    "CardNum": "#ST03-017",
+                    "Qty": 4,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-017.png?20221226"
+                },
+                {
+                    "CardNum": "#OP01-086",
+                    "Qty": 3,
+                    "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-086.png?20221226"
+                }
+            ]
         }
     ]
 }
