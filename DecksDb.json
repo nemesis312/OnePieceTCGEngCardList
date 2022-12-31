@@ -2,7 +2,7 @@
     "Decks": [
         {
             "Id": 1,
-            "DeckName": "Zoro Rush",
+            "DeckColor": "Red",
             "Author": "Frezzini E",
             "Date": "12/22/22",
             "Country": "Italy",
@@ -99,7 +99,7 @@
         },
         {
             "Id": 2,
-            "DeckName": "Crocodile",
+            "DeckColor": "Blue",
             "Author": "ModestSamTCG",
             "Date": "12/23/22",
             "Country": "Spain",
