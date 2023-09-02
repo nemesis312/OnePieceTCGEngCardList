@@ -8,10 +8,10 @@
       "Tournament": "Regionals;",
       "Host": "PPG(512)",
       "DeckColor": "Yellow",
-      "Qty": 0,
       "Cards": [
         {
           "Qty": 1,
+          "cardnum": "#OP03-099",
           "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099.png?230630"
         },
         {
@@ -292,6 +292,93 @@
           "Qty": 2,
           "cardnum": "#OP03-017",
           "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-017.png?230630"
+        }
+      ],
+      "Placement": "1st Place"
+    },
+    {
+      "DeckName": "Yellow Yamato",
+      "Author": "Luis Valdez",
+      "Date": "8/27/2023",
+      "Country": "Dominican Republic",
+      "Tournament": "SB;",
+      "Host": "Battle Zone Gaming Club(16)",
+      "DeckColor": "Yellow",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "#ST09-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-001.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#OP03-102",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-102.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#OP03-108",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-108.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#OP03-112",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#OP03-113",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-113.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#OP03-115",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-115.png?230630"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "#OP03-123",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-123.png?230630"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "#ST07-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-010.png?230630"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "#ST07-003",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-003.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#ST07-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#ST07-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#ST09-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-012.png?230630"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "#ST09-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-013.png?230630"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "#OP03-118",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-118.png?230630"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "#OP03-121",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121.png?230630"
         }
       ],
       "Placement": "1st Place"
