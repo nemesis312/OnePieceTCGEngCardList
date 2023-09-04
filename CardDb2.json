@@ -53,7 +53,8 @@
             "Type 2": "Straw Hat Crew",
             "Attribute": "Strike",
             "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-003.png?230630",
-            "TcgPlayer": "https://www.tcgplayer.com/search/one-piece-card-game/product?productLineName=one-piece-card-game&q=Monkey.D.Luffy&view=grid"
+            "TcgPlayer": "https://www.tcgplayer.com/search/one-piece-card-game/product?productLineName=one-piece-card-game&q=Monkey.D.Luffy&view=grid",
+            "ImgAlt": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-003_p1.png?230630"
         },
         {
             "CardNum": "#OP01-004",
