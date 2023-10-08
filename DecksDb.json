@@ -1,6 +1,981 @@
 {
   "Decks": [
     {
+      "DeckName": "Red Zoro",
+      "Author": "Clifford Duan",
+      "Date": "10/7/2023",
+      "Country": "New Zealand",
+      "Tournament": "Store Champs",
+      "Placement": "1st Place",
+      "Host": "CardMerchant(42)",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP01-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-025",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "ST01-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-011",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "P-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-005",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP02-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-016.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-013.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-026",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-026.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "ST01-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP03-018",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-018.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Red Whitebeard(win 2xWB, 2xLaw, Zoro, Zephyr, Rebecca)",
+      "Author": "Trevor Nemcovic",
+      "Date": "10/7/2023",
+      "Country": "North America",
+      "Tournament": "3v3(7-0)",
+      "Placement": "10th Place",
+      "Host": "PPG(200+)",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP02-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST01-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP02-004",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP02-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-007.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-008.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP02-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP02-018",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-003",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-010.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-013.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-026",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-026.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST01-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP03-017",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-017.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Red Whitebeard(win 3xkata, 2xWB, law, rebecca, gp doffy, lost GP Doffy)",
+      "Author": "Gianluca Noviello",
+      "Date": "10/7/2023",
+      "Country": "Europe",
+      "Tournament": "Regionals(8-1)",
+      "Placement": "Top-8",
+      "Host": "TCG Shop",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP02-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST01-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-019",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-019.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "P-022",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-022.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP02-004",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-007.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP02-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-013.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-026",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-026.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Red Zoro(win 2x Queen, 2xWB, 2xLaw,1Kata, rebecca, lost kata)",
+      "Author": "Chris Samson",
+      "Date": "10/7/2023",
+      "Country": "USA",
+      "Tournament": "Regionals(8-1)",
+      "Placement": "6th Place",
+      "Host": "Play TCG",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP01-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-025",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "P-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-005",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-008.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP02-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-016.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP02-018",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-003",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-013.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-018",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-018.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP03-019",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-019.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Red Zoro(won 3xlaw, 2xzoro, kata, rebecca, WB, lose GP Doffy)",
+      "Author": "Luigi Amato",
+      "Date": "10/7/2023",
+      "Country": "Europe",
+      "Tournament": "Regionals(8-1)",
+      "Placement": "2nd Place",
+      "Host": "TCG Shop",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP01-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-025",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "P-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-005",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-008.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-016.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP02-017",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-017.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP02-018",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-003",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-003.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-013.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "ST01-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST01-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-018",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-018.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP03-019",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-019.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP04-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-016.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "YP Crocodile",
+      "Author": "Reilly TCG",
+      "Date": "10/7/2023",
+      "Country": "USA",
+      "Tournament": "Store Champs",
+      "Placement": "1st Place",
+      "Host": "LGS",
+      "DeckColor": "Purple",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP04-058",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-058.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST04-003",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST04-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-102",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-102.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-101",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-101.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST05-004",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-004.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-060",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-060.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-064",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-064.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-073",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-073.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-102",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-102.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-123",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-123.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-100",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-100.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-112",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-112.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP04-104",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-104.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST04-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST09-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Blue Yellow Queen",
+      "Author": "Tugo Deng",
+      "Date": "10/6/2023",
+      "Country": "Panama",
+      "Tournament": "SB(5-0)",
+      "Placement": "1st Place",
+      "Host": "Tap n Go",
+      "DeckColor": "Yellow",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP04-040",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-040.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-123",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-123.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST07-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-100",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-100.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-112",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-112.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-104",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-104.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP04-105",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-105.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP04-110",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-110.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-070",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-073",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP03-122",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-122.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-044",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-044.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP04-048",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-048.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP04-056",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-057",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Black Rebecca",
+      "Author": "Rob",
+      "Date": "10/4/2023",
+      "Country": "USA",
+      "Tournament": "Store Champs",
+      "Placement": "3rd Place",
+      "Host": "Brothers Grim Games(33)",
+      "DeckColor": "Black",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP04-039",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-039.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-077",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-077.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-079",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-079.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-080",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-080.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-082",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-082.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-083",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-083.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-089",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-089.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-090",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-090.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP04-091",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-091.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-092",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-092.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-093",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-093.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP04-094",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-094.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP04-096",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-096.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP03-055",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-055.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-057",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP04-056",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "RG Law",
+      "Author": "Dmutantes",
+      "Date": "10/4/2023",
+      "Country": "Brazil",
+      "Tournament": "SB(5-0)",
+      "Placement": "1st Place",
+      "Host": "Mega Geek Store(19)",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP01-002",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-002.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-025",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-011",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-005",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP02-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST02-009",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-009.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-047",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST02-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST02-004",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP02-040",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-040.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "ST01-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Green Purple Doffy",
+      "Author": "Talone",
+      "Date": "10/4/2023",
+      "Country": "North America",
+      "Tournament": "Store Champs(4-0)",
+      "Placement": "1st Place",
+      "Host": "Demolition Games(32)",
+      "DeckColor": "Green",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP04-019",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-019.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP02-040",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-040.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-041",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-041.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP02-034",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-034.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-036",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-036.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-024",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-024.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-031",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-031.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-075",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-075.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST05-004",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-004.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST05-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST05-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-014.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST04-005",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-058",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-058.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-035",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-035.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-119",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-119.png?230913"
+        }
+      ]
+    },
+    {
       "DeckName": "Yellow Katakuri",
       "Author": "Dr Cat",
       "Date": "10/2/2023",
@@ -354,6 +1329,190 @@
       ]
     },
     {
+      "DeckName": "Blue Crocodile",
+      "Author": "Ruben",
+      "Date": "10/2/2023",
+      "Country": "Europe",
+      "Tournament": "Store Champs",
+      "Placement": "1st Place twice",
+      "Host": "TCG Shops(26)",
+      "DeckColor": "Blue",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "ST03-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-001.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST03-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST03-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-012.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-064",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-064.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-073",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-070",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-079",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-079.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-074",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-074.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-075",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-075.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-044",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-044.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP03-122",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-122.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP04-043",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-043.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP04-044",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-044.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-048",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-048.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-057",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-056",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-057",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-057.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Blue Yellow Queen",
+      "Author": "Kevin Colucci",
+      "Date": "10/2/2023",
+      "Country": "USA",
+      "Tournament": "SB",
+      "Placement": "1st Place",
+      "Host": "Vibranium Comics(18)",
+      "DeckColor": "Blue",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP04-040",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-040.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-073",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-070",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-078",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-077",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-077.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-044",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-044.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST07-003",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-003.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST07-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-100",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-100.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-104",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-104.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-112",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-112.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP02-068",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-068.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-057",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP04-056",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056.png?230913"
+        }
+      ]
+    },
+    {
       "DeckName": "Blue Yellow Queen(win Rebecca, PY Croco, GP Doffy, and WB)",
       "Author": "Nicholas Knorr",
       "Date": "10/1/2023",
@@ -509,6 +1668,118 @@
           "Qty": 4,
           "cardnum": "OP02-005",
           "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST02-009",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-009.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-047",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST02-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST02-004",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP02-040",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-040.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "ST01-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "RG Law",
+      "Author": "Asura",
+      "Date": "10/1/2023",
+      "Country": "Latam",
+      "Tournament": "Regionals(8-1)",
+      "Placement": "2nd Place",
+      "Host": "Coqui",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP01-002",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-002.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-025",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-017",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-017.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "ST01-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-011",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-005",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP02-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015.png?230913"
         },
         {
           "Qty": 4,
@@ -1028,6 +2299,108 @@
       ]
     },
     {
+      "DeckName": "Red Whitebeard",
+      "Author": "Diego O V",
+      "Date": "9/30/2023",
+      "Country": "Chile",
+      "Tournament": "Regionals(8-1)",
+      "Placement": "7th Place",
+      "Host": "The Big Box(512)",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP02-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST01-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST01-011",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-004",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-004.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "P-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-006.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "P-022",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-022.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP02-004",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-007.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP02-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-026",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-026.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP01-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST01-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png?230913"
+        }
+      ]
+    },
+    {
       "DeckName": "Red Zoro",
       "Author": "Kam Ho Lau",
       "Date": "9/30/2023",
@@ -1308,7 +2681,7 @@
       "Author": "Jack Bankhurst",
       "Date": "9/30/2023",
       "Country": "UK",
-      "Tournament": "Store Ch(5-0)",
+      "Tournament": "Store Champs(5-0)",
       "Placement": "1st Place",
       "Host": "Beanie Games",
       "DeckColor": "Purple",
@@ -2061,6 +3434,93 @@
           "Qty": 1,
           "cardnum": "OP04-016",
           "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-016.png?230913"
+        }
+      ]
+    },
+    {
+      "DeckName": "Blue Yellow Queen",
+      "Author": "Pedro G",
+      "Date": "9/27/2023",
+      "Country": "Portugal",
+      "Tournament": "SB",
+      "Placement": "1st Place",
+      "Host": "Weatherlight Games",
+      "DeckColor": "Blue",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP04-040",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-040.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST03-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-073",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-073.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-070",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-070.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP01-077",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-077.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-044",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-044.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-122",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-122.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST07-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-123",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-123.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-100",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-100.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-104",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-104.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP04-112",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-112.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-068",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-068.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-057",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-057.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-056",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-056.png?230913"
         }
       ]
     },
@@ -5201,6 +6661,103 @@
       ]
     },
     {
+      "DeckName": "Yellow Katakuri",
+      "Author": "Yona Abraham",
+      "Date": "9/24/2023",
+      "Country": "North America",
+      "Tournament": "Regionals",
+      "Placement": "5th Place",
+      "Host": "PPG(650)",
+      "DeckColor": "Yellow",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP03-099",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099.png?230913"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP03-102",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-102.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP03-110",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-112",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-113",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-113.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-115",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-115.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-116",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-123",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-123.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-114",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-114.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST07-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-010.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST07-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-100",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-100.png?230913"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP04-114",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-114.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-104",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-104.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-105",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-105.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-107",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-107.png?230913"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP03-121",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121.png?230913"
+        }
+      ]
+    },
+    {
       "DeckName": "Zorobeard",
       "Author": "SavageMonkey PR",
       "Date": "9/24/2023",
@@ -5987,94 +7544,84 @@
       ]
     },
     {
-      "DeckName": "Yellow Katakuri",
-      "Author": "Indomnia",
-      "Date": "9/23/2023",
-      "Country": "Austria",
+      "DeckName": "Green Kuro",
+      "Author": "EN Wilbur",
+      "Date": "9/22/2023",
+      "Country": "USA",
       "Tournament": "SB",
       "Placement": "1st Place",
-      "Host": "DC Trading(19)",
-      "DeckColor": "Yellow",
+      "Host": "Comic Book World(17)",
+      "DeckColor": "Green",
       "Cards": [
         {
           "Qty": 1,
-          "cardnum": "OP03-099",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099.png?230913"
+          "cardnum": "OP03-021",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-021.png?230913"
         },
         {
-          "Qty": 1,
-          "cardnum": "OP03-108",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-108.png?230913"
+          "Qty": 4,
+          "cardnum": "OP01-033",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-033.png?230913"
         },
         {
           "Qty": 2,
-          "cardnum": "OP03-110",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110.png?230913"
+          "cardnum": "OP02-034",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-034.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP03-112",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112.png?230913"
+          "cardnum": "OP03-024",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-024.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP03-113",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-113.png?230913"
+          "cardnum": "OP03-025",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-025.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP03-115",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-115.png?230913"
+          "cardnum": "OP03-026",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-026.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP03-116",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-116.png?230913"
-        },
-        {
-          "Qty": 3,
-          "cardnum": "OP03-123",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-123.png?230913"
+          "cardnum": "OP03-027",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-027.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP03-114",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-114.png?230913"
-        },
-        {
-          "Qty": 2,
-          "cardnum": "ST07-010",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-010.png?230913"
-        },
-        {
-          "Qty": 2,
-          "cardnum": "ST07-007",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png?230913"
+          "cardnum": "OP03-029",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-029.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP04-100",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-100.png?230913"
+          "cardnum": "OP03-030",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-030.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP04-104",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-104.png?230913"
+          "cardnum": "OP03-031",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-031.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP04-105",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-105.png?230913"
+          "cardnum": "OP03-033",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-033.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP04-107",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-107.png?230913"
+          "cardnum": "OP03-034",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-034.png?230913"
         },
         {
           "Qty": 4,
-          "cardnum": "OP03-121",
-          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121.png?230913"
+          "cardnum": "OP04-031",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-031.png?230913"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-058",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-058.png?230913"
         }
       ]
     },
