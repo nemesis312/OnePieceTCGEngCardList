@@ -53,14 +53,14 @@
       "CardNum": "#OP02-024",
       "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-024.png?230630",
       "MaxCount": 1,
-      "Banned": false,
+      "Banned": true,
       "EffectiveDate": "2023.07.28"
     },
     {
       "CardNum": "#OP02-052",
       "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-052.png?230630",
       "MaxCount": 1,
-      "Banned": false,
+      "Banned": true,
       "EffectiveDate": "2023.07.28"
     }
   ]
