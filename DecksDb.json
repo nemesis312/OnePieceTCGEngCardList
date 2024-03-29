@@ -193,8 +193,8 @@
           "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-056.png?240315"
         }
       ]
-    },
-    {
+    }
+  ,{
       "DeckName": "Yellow Katakuri",
       "Author": "Dinh Anh Tran",
       "Date": "3/24/2024",
@@ -382,8 +382,8 @@
           "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-056.png?240315"
         }
       ]
-    },
-    {
+    }
+  ,{
       "DeckName": "BB Sakazuki",
       "Author": "Pedro Rodriguez",
       "Date": "3/24/2024",
@@ -2697,9 +2697,8 @@
           "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117.png?240315"
         }
       ]
-    }
-  ]
-}{
+    },
+    {
       "DeckName": "Gecko Moria",
       "Author": "Justin",
       "Date": "3/23/2024",
