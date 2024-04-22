@@ -12,7 +12,8 @@ OPTCG Database [https://play.google.com/store/apps/details?id=com.lrdesign.opdat
  - OP03 ✅ 
  - OP04 ✅ 
  - OP05 ✅ 
- - OP06 ✅ 
+ - OP06 ✅
+ - Promos ✅ 
  - EB01  ✅ 
  - ST01  ✅ 
  - ST02  ✅
