@@ -1,6 +1,180 @@
 {
   "Decks": [
     {
+      "DeckName": "Yellow Black Luffy",
+      "Author": "Eternal Magic",
+      "Date": "4/23/2024",
+      "Country": "Australia",
+      "Tournament": "SB(4-0)",
+      "Placement": "1st Place",
+      "Host": "LGS",
+      "DeckColor": "Yellow",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "ST13-003",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP05-105",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-105.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP06-106",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-106.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST13-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-008.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-011",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-012.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-013.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-083",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-083.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP06-086",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-086.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-019",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019.png?240419"
+        }
+      ]
+    },
+    {
+      "DeckName": "Red Purple Law",
+      "Author": "Diego Mediano",
+      "Date": "4/22/2024",
+      "Country": "Chile",
+      "Tournament": "SB",
+      "Placement": "1st Place",
+      "Host": "Command Center Store(28)",
+      "DeckColor": "Red",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "ST10-001",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-001.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-006",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP01-025",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png?240419"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP01-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-013.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "P-017",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-017.png?240419"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "P-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png?240419"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP06-009",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-009.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP06-016",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-016.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST05-002",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-002.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST10-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-008.png?240419"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST10-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-010.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP05-071",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-071.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP05-074",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-074.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP06-069",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-069.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP06-076",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-076.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP05-019",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-019.png?240419"
+        }
+      ]
+    },
+    {
       "DeckName": "purple blue Reiju",
       "Author": "Johny_Wylly",
       "Date": "4/21/2024",
@@ -89,6 +263,190 @@
           "Qty": 4,
           "cardnum": "OP06-079",
           "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-079.png?240419"
+        }
+      ]
+    },
+    {
+      "DeckName": "Yellow Black Luffy",
+      "Author": "porpl",
+      "Date": "4/21/2024",
+      "Country": "USA",
+      "Tournament": "SB",
+      "Placement": "1st Place",
+      "Host": "LGS",
+      "DeckColor": "Yellow",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "ST13-003",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP05-105",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-105.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP06-106",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-106.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-007",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-007.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST13-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-008.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-010.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-011",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-011.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-012",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-012.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-013",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-013.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-014",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-014.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST13-015",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-015.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP02-114",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP04-083",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-083.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP06-086",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-086.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST13-019",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-019.png?240419"
+        }
+      ]
+    },
+    {
+      "DeckName": "Sakazuki",
+      "Author": "Dylan Hall",
+      "Date": "4/20/2024",
+      "Country": "Canada",
+      "Tournament": "Regional",
+      "Placement": "1st Place",
+      "Host": "CartaMagica(1024)",
+      "DeckColor": "Black",
+      "Cards": [
+        {
+          "Qty": 1,
+          "cardnum": "OP05-041",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-041.png?240419"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP02-114",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114.png?240419"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP02-096",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-096.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "ST06-008",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-008.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "ST06-010",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP02-106",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-079",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-079.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP03-089",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-089.png?240419"
+        },
+        {
+          "Qty": 2,
+          "cardnum": "OP04-083",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-083.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP05-091",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-091_p2.png?240419"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP05-093",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-093.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP06-086",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-086.png?240419"
+        },
+        {
+          "Qty": 1,
+          "cardnum": "OP05-051",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-051_p2.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP06-050",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-050.png?240419"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "ST06-017",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-017.png?240419"
+        },
+        {
+          "Qty": 4,
+          "cardnum": "OP05-057",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-057.png?240419"
+        },
+        {
+          "Qty": 3,
+          "cardnum": "OP06-056",
+          "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-056.png?240419"
         }
       ]
     },
