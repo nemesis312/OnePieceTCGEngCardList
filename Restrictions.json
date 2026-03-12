@@ -1,67 +1,97 @@
 {
   "Restrictions": [
     {
-      "CardNum": "#OP03-0013",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-013.png?230630",
-      "MaxCount": 1,
+      "CardNum": "#OP11-040",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-040.png",
+      "MaxCount": null,
       "Banned": false,
-      "EffectiveDate": "2023.11.10"
+      "EffectiveDate": "2025.08.30",
+      "BanCategory": "Banned Pair Cards",
+      "BanSubCategory": "Card A",
+      "BanCategoryDescription": "Card A and Card B cannot be included in the same deck."
     },
     {
-      "CardNum": "#OP01-016",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016.png?230630",
-      "MaxCount": 0,
-      "Banned": true,
-      "EffectiveDate": "2023.11.10"
-    },
-    {
-      "CardNum": "#OP02-001",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001.png?230630",
-      "MaxCount": 0,
-      "Banned": true,
-      "EffectiveDate": "2023.11.10"
-    },
-    {
-      "CardNum": "#OP02-005",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png?230630",
-      "MaxCount": 0,
-      "Banned": true,
-      "EffectiveDate": "2023.11.10"
-    },
-    {
-      "CardNum": "#OP02-004",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004.png?230630",
-      "MaxCount": 1,
+      "CardNum": "#OP11-067",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-067.png",
+      "MaxCount": null,
       "Banned": false,
-      "EffectiveDate": "2023.07.28"
+      "EffectiveDate": "2025.08.30",
+      "BanCategory": "Banned Pair Cards",
+      "BanSubCategory": "Card B",
+      "BanCategoryDescription": "Card A and Card B cannot be included in the same deck."
     },
     {
-      "CardNum": "#OP02-018",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018.png?230630",
-      "MaxCount": 1,
+      "CardNum": "#OP11-069",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-069.png",
+      "MaxCount": null,
       "Banned": false,
-      "EffectiveDate": "2023.07.28"
+      "EffectiveDate": "2025.08.30",
+      "BanCategory": "Banned Pair Cards",
+      "BanSubCategory": "Card B",
+      "BanCategoryDescription": "Card A and Card B cannot be included in the same deck."
     },
     {
-      "CardNum": "#OP01-029",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-029.png?230630",
-      "MaxCount": 1,
-      "Banned": false,
-      "EffectiveDate": "2023.07.28"
-    },
-    {
-      "CardNum": "#OP02-024",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-024.png?230630",
-      "MaxCount": 1,
+      "CardNum": "#OP03-040",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-040.png?230630",
+      "MaxCount": null,
       "Banned": true,
-      "EffectiveDate": "2023.07.28"
+      "EffectiveDate": "2025.08.30"
     },
     {
-      "CardNum": "#OP02-052",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-052.png?230630",
-      "MaxCount": 1,
+      "CardNum": "#ST06-015",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-015.png?230630",
+      "MaxCount": null,
       "Banned": true,
-      "EffectiveDate": "2023.07.28"
+      "EffectiveDate": "2024.06.21"
+    },
+    {
+      "CardNum": "#OP06-116",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-116.png?230630",
+      "MaxCount": null,
+      "Banned": true,
+      "EffectiveDate": "2024.09.06"
+    },
+    {
+      "CardNum": "#OP03-098",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-098.png?230630",
+      "MaxCount": null,
+      "Banned": true,
+      "EffectiveDate": "2024.09.06"
+    },
+    {
+      "CardNum": "#OP06-086",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-086.png?230630",
+      "MaxCount": null,
+      "Banned": true,
+      "EffectiveDate": "2025.04.01"
+    },
+    {
+      "CardNum": "#OP07-045",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-045.png?230630",
+      "MaxCount": null,
+      "Banned": true,
+      "EffectiveDate": "2025.04.01"
+    },
+    {
+      "CardNum": "#OP02-117",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117.png?230630",
+      "MaxCount": null,
+      "Banned": true,
+      "EffectiveDate": "2025.04.01"
+    },
+    {
+      "CardNum": "#EB01-059",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-059.png?230630",
+      "MaxCount": null,
+      "Banned": true,
+      "EffectiveDate": "2025.04.01"
+    },
+    {
+      "CardNum": "#OP06-086",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-086.png?230630",
+      "MaxCount": null,
+      "Banned": true,
+      "EffectiveDate": "2025.04.01"
     }
   ]
 }
