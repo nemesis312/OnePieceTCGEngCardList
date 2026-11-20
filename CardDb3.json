@@ -28744,10 +28744,10 @@
     },
     {
       "CardNum": "#OP13-012",
-      "Rarity": "R",
+      "Rarity": "SP CARD",
       "CardType": "CHARACTER",
       "Name": "Nefeltari Vivi",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-012.png?261016",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-012_p1.png?261016",
       "Cost": "1",
       "Attribute": "Wisdom",
       "Power": "2000",
@@ -28756,8 +28756,9 @@
       "Block": "4",
       "Type": "Alabasta",
       "Effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Alabasta} or {Straw Hat Crew} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-      "CardSets": "Card Set(s)-CARRYING ON HIS WILL- [OP-13]",
+      "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-012_p1.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-012.png?261016"
       ]
     },
@@ -30704,10 +30705,10 @@
     },
     {
       "CardNum": "#OP13-113",
-      "Rarity": "R",
+      "Rarity": "SP CARD",
       "CardType": "CHARACTER",
       "Name": "Lilith",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-113.png?261016",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-113_p2.png?261016",
       "Cost": "1",
       "Attribute": "Wisdom",
       "Power": "2000",
@@ -30716,8 +30717,9 @@
       "Block": "4",
       "Type": "Egghead/Scientist",
       "Effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a [Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-      "CardSets": "Card Set(s)-CARRYING ON HIS WILL- [OP-13]",
+      "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-113_p2.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-113.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-113_p1.png?261016"
       ]
@@ -38542,10 +38544,10 @@
     },
     {
       "CardNum": "#OP17-040",
-      "Rarity": "R",
+      "Rarity": "SP CARD",
       "CardType": "CHARACTER",
       "Name": "Edward.Newgate",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-040.png?261016",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-040_p2.png?261016",
       "Cost": "6",
       "Attribute": "Special",
       "Power": "8000",
@@ -38554,8 +38556,9 @@
       "Block": "5",
       "Type": "Rocks Pirates",
       "Effect": "[On Play] Draw 1 card.[Once Per Turn] When your Leader with a type including \"Rocks Pirates\" attacks or is attacked, you may trash 1 card from your hand to activate this effect. Your Leader gains +3000 power during this battle.",
-      "CardSets": "Card Set(s)BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+      "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-040_p2.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-040.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-040_p1.png?261016"
       ]
@@ -40074,7 +40077,7 @@
       "Rarity": "SEC",
       "CardType": "CHARACTER",
       "Name": "Loki",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-119.png?261016",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-119_p2.png?261016",
       "Cost": "6",
       "Attribute": "Strike",
       "Power": "8000",
@@ -40083,8 +40086,10 @@
       "Block": "5",
       "Type": "Giant/Elbaph",
       "Effect": "This Character gains +12 cost, and if it is your opponent's turn, this Character gains +3000 power.[On Play] K.O. your opponent's Characters with a total cost of 4 or less.",
-      "CardSets": "Card Set(s)BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+      "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-119_p2.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-119_p3.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-119.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP17-119_p1.png?261016"
       ]
@@ -40105,7 +40110,8 @@
       "Effect": "All of your Characters with both the {Animal} and {Alabasta} types gain [Rush] and +1000 power.[Once Per Turn] When your {Alabasta} type Character is K.O.'d, draw 1 card.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-001.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-001.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-001_p1.png?261016"
       ]
     },
     {
@@ -40162,7 +40168,8 @@
       "Effect": "Apply each of the following effects based on this Character's power:• If it has 5000 power or more, this Character gains [Rush].• If it has 6000 power or more, this Character gains [Banish].• If it has 7000 power or more, this Character gains [Unblockable].",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-004.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-004.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-004_p1.png?261016"
       ]
     },
     {
@@ -40295,7 +40302,8 @@
       "Effect": "All of your Characters with both the {Animal} and {Alabasta} types gain +1000 power.[Opponent's Turn] This Character gains [Blocker] and +6000 power.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-011.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-011.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-011_p1.png?261016"
       ]
     },
     {
@@ -40485,7 +40493,8 @@
       "Effect": "All Stage cards in your hand have a +3000 Counter.[Activate: Main] [Once Per Turn] DON!! −1: Play up to 1 Stage card with a cost of 5 or less from your hand.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-021.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-021.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-021_p1.png?261016"
       ]
     },
     {
@@ -40504,7 +40513,8 @@
       "Effect": "[DON!! x3] [When Attacking] [Once Per Turn] You may set this Leader as active. If you do, this Leader will not become active in your next Refresh Phase.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-022.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-022.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-022_p1.png?261016"
       ]
     },
     {
@@ -40637,7 +40647,8 @@
       "Effect": "[Rush][When Attacking] [Once Per Turn] Give up to 3 rested DON!! cards to your Leader and set this Character as active. Then, this Character will not become active in your next Refresh Phase.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-029.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-029.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-029_p1.png?261016"
       ]
     },
     {
@@ -40675,7 +40686,9 @@
       "Effect": "[Opponent's Turn] If your Character would be removed from the field by your opponent's effect, you may rest this Character instead.[End of Your Turn] Set up to 1 of your {Water Seven} type cards and up to 1 of your DON!! cards as active.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-031.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-031.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-031_p1.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-031_p2.png?261016"
       ]
     },
     {
@@ -40732,7 +40745,8 @@
       "Effect": "[On Play] Play up to 1 {The Franky Family} or {Straw Hat Crew} type card with a cost of 5 or less from your hand. Then, if you have a Stage with a cost of 5 or more, rest up to 1 of your opponent's Characters with a cost of 6 or less.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-034.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-034.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-034_p1.png?261016"
       ]
     },
     {
@@ -40865,7 +40879,8 @@
       "Effect": "When your Character with a type including \"Baroque Works\" and 3000 base power or more is K.O.'d, draw 1 card, and your opponent trashes 1 card from their hand.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-041.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-041.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-041_p1.png?261016"
       ]
     },
     {
@@ -40960,7 +40975,8 @@
       "Effect": "[On Play] Draw 2 cards and give your Leader and all of your Characters up to 2 rested DON!! cards each.[On Your Opponent's Attack] You may trash 1 card from your hand: The base power of your Leader with a type including \"Baroque Works\" becomes 7000 during this turn.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-046.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-046.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-046_p1.png?261016"
       ]
     },
     {
@@ -40998,7 +41014,8 @@
       "Effect": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Play up to 1 Character card with a type including \"Baroque Works\" and a cost of 5 or less from your hand.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-048.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-048.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-048_p1.png?261016"
       ]
     },
     {
@@ -41017,7 +41034,8 @@
       "Effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\", add it to your hand and place the rest at the bottom of your deck in any order. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-049.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-049.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-049_p1.png?261016"
       ]
     },
     {
@@ -41055,7 +41073,8 @@
       "Effect": "[DON!! x1] This Character gains +1000 power.[On Play] You may rest 5 of your DON!! cards: Place up to 1 Character with a cost of 6 or less and up to 1 Character with a cost of 5 or less at the bottom of the owner's deck in any order of the owner's choosing.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-051.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-051.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-051_p1.png?261016"
       ]
     },
     {
@@ -41226,7 +41245,9 @@
       "Effect": "[Once Per Turn] When a Character is played from your trash, draw 2 cards and trash 1 card from your hand.[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: If you have a Character with 8000 base power or more, add up to 1 DON!! card as active from your DON!! deck.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-060.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-060.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-060_p1.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-060_p2.png?261016"
       ]
     },
     {
@@ -41245,7 +41266,8 @@
       "Effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to a total of 2 Stage cards or {Water Seven} type cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-061.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-061.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-061_p1.png?261016"
       ]
     },
     {
@@ -41321,7 +41343,9 @@
       "Effect": "[Blocker][On Play] DON!! −1: Play up to 1 {Celestial Dragons} type Character card with 6000 power or less from your trash.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-065.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-065.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-065_p1.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-065_p2.png?261016"
       ]
     },
     {
@@ -41587,7 +41611,8 @@
       "Effect": "[Activate: Main] You may rest 2 of your DON!! cards and this Leader and trash 1 card with a type including \"CP\" from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-079.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-079.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-079_p1.png?261016"
       ]
     },
     {
@@ -41663,7 +41688,8 @@
       "Effect": "[Your Turn] [On Play] Play up to 1 [Sleeptids] from your trash.[On K.O.] You may trash 2 cards from your hand: Play this Character card from your trash.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-083.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-083.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-083_p1.png?261016"
       ]
     },
     {
@@ -41682,7 +41708,9 @@
       "Effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Holy Knights of God} type card and add it to your hand. Then, trash the rest.[Activate: Main] You may rest 4 of your DON!! cards: Play up to 1 {Holy Knights of God} type Character card with a cost of 6 or less from your trash.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-084.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-084.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-084_p1.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-084_p2.png?261016"
       ]
     },
     {
@@ -41758,7 +41786,8 @@
       "Effect": "[Your Turn] [On Play] If you have 6 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with a base cost of 4 or less.[On K.O.] You may trash 2 cards from your hand: Play this Character card from your trash.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-088.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-088.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-088_p1.png?261016"
       ]
     },
     {
@@ -41853,7 +41882,9 @@
       "Effect": "Under the rules of this game, you may have any number of this card in your deck.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-093.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-093.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-093_p1.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-093_p2.png?261016"
       ]
     },
     {
@@ -41910,7 +41941,8 @@
       "Effect": "[Main] You may rest 3 of your DON!! cards: Play up to 1 {Holy Knights of God} type Character card with a cost of 6 or less from your trash.[Counter] If you have 10 or more cards in your trash, up to 1 of your Leader or Characters gains +4000 power during this battle.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-096.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-096.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-096_p1.png?261016"
       ]
     },
     {
@@ -41967,7 +41999,8 @@
       "Effect": "[On Play] Add up to 1 card with a type including \"CP\" from your hand to the top or bottom of your Life cards face-up.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-099.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-099.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-099_p1.png?261016"
       ]
     },
     {
@@ -41986,7 +42019,8 @@
       "Effect": "[On Play] Draw 1 card, then add up to 1 card with a type including \"CP\" from your hand to the top or bottom of your Life cards face-up.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-100.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-100.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-100_p1.png?261016"
       ]
     },
     {
@@ -42233,7 +42267,8 @@
       "Effect": "[On Play]/[On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-113.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-113.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-113_p1.png?261016"
       ]
     },
     {
@@ -42328,7 +42363,8 @@
       "Effect": "[On Play] Set up to 3 of your DON!! cards as active. Then, up to 1 of your opponent's Characters cannot be rested until the end of your opponent's next End Phase.[End of Your Turn] Set up to 1 of your {Water Seven} type cards as active.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-118.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-118.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-118_p1.png?261016"
       ]
     },
     {
@@ -42347,7 +42383,9 @@
       "Effect": "[On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.[Activate: Main] [Once Per Turn] If this Character was played on this turn, play up to 1 {Holy Knights of God} type Character card with a cost of 6 or less from your trash.",
       "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
-        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-119.png?261016"
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-119.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-119_p1.png?261016",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/OP18-119_p2.png?261016"
       ]
     },
     {
@@ -48255,10 +48293,10 @@
     },
     {
       "CardNum": "#ST24-004",
-      "Rarity": "SR",
+      "Rarity": "SP CARD",
       "CardType": "CHARACTER",
       "Name": "Law & Bepo",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-004.png?261016",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-004_p1.png?261016",
       "Cost": "10",
       "Attribute": "Slash/Strike",
       "Power": "11000",
@@ -48267,8 +48305,9 @@
       "Block": "3",
       "Type": "Minks/Supernovas/Heart Pirates",
       "Effect": "[On Play] Rest up to 1 of your opponent's Characters and that Character will not become active in your opponent's next Refresh Phase. Then, if your opponent has 2 or more rested Characters, your Leader gains +2000 power until the end of your opponent's next End Phase.",
-      "CardSets": "Card Set(s)-GREEN Jewelry Bonney- [ST-24]",
+      "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
+        "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-004_p1.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-004.png?261016"
       ]
     },
@@ -49697,10 +49736,10 @@
     },
     {
       "CardNum": "#ST34-004",
-      "Rarity": "SR",
+      "Rarity": "SP CARD",
       "CardType": "CHARACTER",
       "Name": "Charlotte Linlin",
-      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST34-004.png?261016",
+      "Img": "https://en.onepiece-cardgame.com/images/cardlist/card/ST34-004_p1.png?261016",
       "Cost": "10",
       "Attribute": "Special",
       "Power": "12000",
@@ -49709,8 +49748,9 @@
       "Block": "5",
       "Type": "The Four Emperors/Big Mom Pirates",
       "Effect": "[On Play] DON!! −4, you may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards. Then, up to 1 of your opponent's Characters' base power becomes 0 during this turn.",
-      "CardSets": "Card Set(s)STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+      "CardSets": "Card Set(s)BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
       "Images": [
+        "https://en.onepiece-cardgame.com/images/cardlist/card/ST34-004_p1.png?261016",
         "https://en.onepiece-cardgame.com/images/cardlist/card/ST34-004.png?261016"
       ]
     },
