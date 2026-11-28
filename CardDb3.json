@@ -23969,7 +23969,7 @@
       "Color": "Red",
       "Block": "3",
       "Type": "Navy",
-      "Effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] This Character cannot be K.O.'d by effects of Characters without the ＜Special＞ attribute.",
+      "Effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] This Character cannot be K.O.'d by effects of Characters without the <Special> attribute.",
       "CardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
       "Images": [
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-005.png?261016"
@@ -23988,7 +23988,7 @@
       "Color": "Red",
       "Block": "3",
       "Type": "FILM/Neo Navy",
-      "Effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's ＜Special＞ attribute Characters −5000 power during this turn.",
+      "Effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's <Special> attribute Characters −5000 power during this turn.",
       "CardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
       "Images": [
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-006.png?261016"
@@ -25583,7 +25583,7 @@
       "Color": "Black",
       "Block": "3",
       "Type": "Navy",
-      "Effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Once Per Turn] This effect can be activated when your opponent's Character attacks. If that Character has the ＜Slash＞ attribute, this Character gains +5000 power during this battle.",
+      "Effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Once Per Turn] This effect can be activated when your opponent's Character attacks. If that Character has the <Slash> attribute, this Character gains +5000 power during this battle.",
       "CardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
       "Images": [
         "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-088.png?261016"
@@ -43962,7 +43962,7 @@
       "Color": "Purple",
       "Block": "1",
       "Type": "FILM/Neo Navy",
-      "Effect": "When this Character battles ＜Strike＞ attribute Characters, this Character gains +3000 power during this turn.[Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +2000 power during this turn.",
+      "Effect": "When this Character battles <Strike> attribute Characters, this Character gains +3000 power during this turn.[Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +2000 power during this turn.",
       "CardSets": "Card Set(s)ONE PIECE FILM edition [ST-05]",
       "Images": [
         "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-010.png?261016"
@@ -50772,7 +50772,7 @@
       "Color": "Red",
       "Block": "1",
       "Type": "Supernovas/Straw Hat Crew",
-      "Effect": "[DON!! x1] This Character cannot be K.O.'d in battle by ＜Strike＞ attribute Leaders or Characters.",
+      "Effect": "[DON!! x1] This Character cannot be K.O.'d in battle by <Strike> attribute Leaders or Characters.",
       "CardSets": "Card Set(s)Tournament Pack Vol.1",
       "Images": [
         "https://en.onepiece-cardgame.com/images/cardlist/card/P-007.png?261016"

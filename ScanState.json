@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "lastFullScan": "2026-11-28",
+  "series": {
+    "569001": {
+      "label": "STARTER DECK -Straw Hat Crew- [ST-01]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569002": {
+      "label": "STARTER DECK -Worst Generation- [ST-02]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569003": {
+      "label": "STARTER DECK -The Seven Warlords of the Sea- [ST-03]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569004": {
+      "label": "STARTER DECK -Animal Kingdom Pirates- [ST-04]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569005": {
+      "label": "STARTER DECK -ONE PIECE FILM edition- [ST-05]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569006": {
+      "label": "STARTER DECK -Absolute Justice- [ST-06]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569007": {
+      "label": "STARTER DECK -Big Mom Pirates- [ST-07]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569008": {
+      "label": "STARTER DECK -Monkey D. Luffy- [ST-08]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569009": {
+      "label": "STARTER DECK -Yamato- [ST-09]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569010": {
+      "label": "ULTRA DECK -The Three Captains- [ST-10]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569011": {
+      "label": "STARTER DECK -Uta- [ST-11]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569012": {
+      "label": "STARTER DECK -Zoro and Sanji- [ST-12]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569013": {
+      "label": "ULTRA DECK -The Three Brothers- [ST-13]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569014": {
+      "label": "STARTER DECK -3D2Y- [ST-14]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569015": {
+      "label": "STARTER DECK -Red Edward.Newgate- [ST-15]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569016": {
+      "label": "STARTER DECK -Green Uta- [ST-16]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569017": {
+      "label": "STARTER DECK -Blue Donquixote Doflamingo- [ST-17]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569018": {
+      "label": "STARTER DECK -Purple Monkey.D.Luffy- [ST-18]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569019": {
+      "label": "STARTER DECK -Black Smoker- [ST-19]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569020": {
+      "label": "STARTER DECK -Yellow Charlotte Katakuri- [ST-20]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569021": {
+      "label": "STARTER DECK EX -GEAR5- [ST-21]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569022": {
+      "label": "STARTER DECK -Ace & Newgate- [ST-22]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569023": {
+      "label": "STARTER DECK -RED Shanks- [ST-23]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569024": {
+      "label": "STARTER DECK -GREEN Jewelry Bonney- [ST-24]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569025": {
+      "label": "STARTER DECK -BLUE Buggy- [ST-25]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569026": {
+      "label": "STARTER DECK -PURPLE/BLACK Monkey.D.Luffy- [ST-26]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569027": {
+      "label": "STARTER DECK -BLACK Marshall.D.Teach- [ST-27]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569028": {
+      "label": "STARTER DECK -GREEN/YELLOW Yamato- [ST-28]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569029": {
+      "label": "STARTER DECK -Egghead- [ST-29]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569030": {
+      "label": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569031": {
+      "label": "STARTER DECK -RED Monkey.D.Luffy- [ST-31]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569032": {
+      "label": "STARTER DECK -GREEN Roronoa Zoro- [ST-32]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569033": {
+      "label": "STARTER DECK -BLUE Kuzan- [ST-33]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569034": {
+      "label": "STARTER DECK -PURPLE Charlotte Katakuri- [ST-34]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569035": {
+      "label": "STARTER DECK -RED/BLACK Sabo- [ST-35]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569036": {
+      "label": "STARTER DECK -YELLOW Eustass\"Captain\"Kid- [ST-36]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569101": {
+      "label": "BOOSTER PACK -ROMANCE DAWN- [OP-01]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569102": {
+      "label": "BOOSTER PACK -PARAMOUNT WAR- [OP-02]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569103": {
+      "label": "BOOSTER PACK -PILLARS OF STRENGTH- [OP-03]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569104": {
+      "label": "BOOSTER PACK -KINGDOMS OF INTRIGUE- [OP-04]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569105": {
+      "label": "BOOSTER PACK -AWAKENING OF THE NEW ERA- [OP-05]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569106": {
+      "label": "BOOSTER PACK -WINGS OF THE CAPTAIN- [OP-06]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569107": {
+      "label": "BOOSTER PACK -500 YEARS IN THE FUTURE- [OP-07]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569108": {
+      "label": "BOOSTER PACK -TWO LEGENDS- [OP-08]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569109": {
+      "label": "BOOSTER PACK -EMPERORS IN THE NEW WORLD- [OP-09]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569110": {
+      "label": "BOOSTER PACK -ROYAL BLOOD- [OP-10]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569111": {
+      "label": "BOOSTER PACK -A FIST OF DIVINE SPEED- [OP-11]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569112": {
+      "label": "BOOSTER PACK -LEGACY OF THE MASTER- [OP-12]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569113": {
+      "label": "BOOSTER PACK -CARRYING ON HIS WILL- [OP-13]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569114": {
+      "label": "BOOSTER PACK -THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569115": {
+      "label": "BOOSTER PACK -ADVENTURE ON KAMI’S ISLAND- [OP15-EB04]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569116": {
+      "label": "BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569117": {
+      "label": "BOOSTER PACK -THE WORLD’S STRONGEST WARRIORS- [OP-17]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569118": {
+      "label": "BOOSTER PACK -THE DOMINANCE OF GOD- [OP-18]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569201": {
+      "label": "EXTRA BOOSTER -MEMORIAL COLLECTION- [EB-01]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569202": {
+      "label": "EXTRA BOOSTER -Anime 25th Collection- [EB-02]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569203": {
+      "label": "EXTRA BOOSTER -ONE PIECE HEROINES EDITION- [EB-03]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569205": {
+      "label": "EXTRA BOOSTER -ONE PIECE HEROINES EDITION vol.2- [EB-05]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569301": {
+      "label": "PREMIUM BOOSTER -ONE PIECE CARD THE BEST- [PRB-01]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569302": {
+      "label": "PREMIUM BOOSTER -ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569801": {
+      "label": "Other Product Card",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    },
+    "569901": {
+      "label": "Promotion card",
+      "firstSeen": "2026-11-28",
+      "lastScanned": "2026-11-28",
+      "bootstrap": true
+    }
+  }
+}
